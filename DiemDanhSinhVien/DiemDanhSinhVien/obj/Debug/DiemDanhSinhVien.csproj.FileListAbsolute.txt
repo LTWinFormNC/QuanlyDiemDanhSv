@@ -54,3 +54,6 @@ C:\Users\WTFBee\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhV
 C:\Users\WTFBee\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.exe.licenses
 C:\Users\WTFBee\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DiemDanhSinhVien.exe
 C:\Users\WTFBee\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DiemDanhSinhVien.pdb
+C:\Users\WTFBee\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.Views.frmDangKy.resources
+C:\Users\WTFBee\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.Views.frmLogin.resources
+C:\Users\WTFBee\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.Views.frmCauHinh.resources
