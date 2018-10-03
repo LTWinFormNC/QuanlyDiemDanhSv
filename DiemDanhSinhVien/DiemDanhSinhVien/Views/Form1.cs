@@ -29,6 +29,7 @@ namespace DiemDanhSinhVien
             InitializeComponent();
         }
 
+<<<<<<< HEAD:DiemDanhSinhVien/DiemDanhSinhVien/Views/frmMain.cs
         private void frmMain_Load(object sender, EventArgs e)
         {
             for (int i = 0; i < rbc_menu.Items.Count;i++ )
@@ -46,5 +47,8 @@ namespace DiemDanhSinhVien
             frmlog.ShowDialog();
             this.Show();
         }
+=======
+       
+>>>>>>> cca4e3c6310f3df2a11cdf2e4462f8aa65ddba7b:DiemDanhSinhVien/DiemDanhSinhVien/Views/Form1.cs
     }
 }
