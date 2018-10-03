@@ -44,3 +44,13 @@ E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\
 E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.exe.licenses
 E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.exe
 E:\A_Môn Chuyên Ngành\Ôn window\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.pdb
+C:\Users\WTFBee\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DiemDanhSinhVien.exe.config
+C:\Users\WTFBee\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.exe
+C:\Users\WTFBee\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.pdb
+C:\Users\WTFBee\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.csprojResolveAssemblyReference.cache
+C:\Users\WTFBee\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.frmMain.resources
+C:\Users\WTFBee\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.Properties.Resources.resources
+C:\Users\WTFBee\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.csproj.GenerateResource.Cache
+C:\Users\WTFBee\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\obj\Debug\DiemDanhSinhVien.exe.licenses
+C:\Users\WTFBee\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DiemDanhSinhVien.exe
+C:\Users\WTFBee\Documents\GitHub\QuanlyDiemDanhSv\QuanlyDiemDanhSv\DiemDanhSinhVien\DiemDanhSinhVien\bin\Debug\DiemDanhSinhVien.pdb
